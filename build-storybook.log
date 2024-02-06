@@ -1,0 +1,259 @@
+
+> taskbox@0.2.0 build-storybook
+> ng run taskbox:build-storybook --output-dir C:\Users\curci\AppData\Local\Temp\chromatic--20128-9T7XnLO3NJjX
+
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.23
+
+TypeScript version used by Compodoc : 5.2.2
+
+TypeScript version of current project : 5.2.2
+
+Node.js version : v18.17.1
+
+Operating system : Windows 10
+
+[18:26:20] No configuration file found, switching to CLI flags.
+[18:26:20] Using tsconfig file : C:\Users\curci\OneDrive\Desktop\learnstorybook-code\.storybook\tsconfig.json
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/.storybook/preview.ts
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/favicon.ico
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/index.html
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/main.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/polyfills.ts
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/styles.css
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/app.component.css
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/app.component.html
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/app.component.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/app.module.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/environments/environment.prod.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/environments/environment.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/button.component.ts
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/button.css
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/Button.stories.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/header.component.ts
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/header.css
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/Header.stories.ts
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/Introduction.mdx
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/page.component.ts
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/page.css
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/Page.stories.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/User.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/models/task.model.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/inbox-screen.component.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/pure-inbox-screen.component.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/pure-inbox-screen.stories.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/pure-task-list.component.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/pure-task-list.stories.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/task-list.component.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/task.component.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/task.module.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/task.stories.ts
+[18:26:20] Including      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/state/task.state.ts
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/assets/font/OpenSans-Light-webfont.eot
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/assets/font/OpenSans-Light-webfont.svg
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/assets/font/OpenSans-Light-webfont.ttf
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/assets/font/OpenSans-Light-webfont.woff
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/assets/font/OpenSans-Regular-webfont.eot
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/assets/font/OpenSans-Regular-webfont.svg
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/assets/font/OpenSans-Regular-webfont.ttf
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/assets/font/OpenSans-Regular-webfont.woff
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/assets/icon/percolate.eot
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/assets/icon/percolate.svg
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/assets/icon/percolate.ttf
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/assets/icon/percolate.woff
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/assets/code-brackets.svg
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/assets/colors.svg
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/assets/comments.svg
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/assets/direction.svg
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/assets/flow.svg
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/assets/plugin.svg
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/assets/repo.svg
+[18:26:20] Excluding      : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/assets/stackalt.svg
+[18:26:20] Searching package.json file
+[18:26:20] package.json file found
+[18:26:20] Processing package.json dependencies
+[18:26:20] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[18:26:20] README.md file found
+[18:26:20] Error during C:\Users\curci\OneDrive\Desktop\learnstorybook-code\CHANGELOG read
+[18:26:20] Continuing without CHANGELOG.md file
+[18:26:20] Error during C:\Users\curci\OneDrive\Desktop\learnstorybook-code\CONTRIBUTING read
+[18:26:20] Continuing without CONTRIBUTING.md file
+[18:26:20] LICENSE.md file found
+[18:26:20] Error during C:\Users\curci\OneDrive\Desktop\learnstorybook-code\TODO read
+[18:26:20] Continuing without TODO.md file
+[18:26:20] Get dependencies data
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/.storybook/preview.ts
+[18:26:21] found          : preview
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/main.ts
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/polyfills.ts
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/app.component.ts
+[18:26:21] found          : AppComponent
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/app.module.ts
+[18:26:21] found          : AppModule
+[18:26:21]                : - imports:
+[18:26:21]                : 	- BrowserModule
+[18:26:21]                : 	- TaskModule
+[18:26:21]                : 	- NgxsModule
+[18:26:21]                : 	- NgxsReduxDevtoolsPluginModule
+[18:26:21]                : 	- NgxsLoggerPluginModule
+[18:26:21]                : - declarations:
+[18:26:21]                : 	- AppComponent
+[18:26:21]                : 	- InboxScreenComponent
+[18:26:21]                : 	- PureInboxScreenComponent
+[18:26:21]                : - bootstrap:
+[18:26:21]                : 	- AppComponent
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/environments/environment.prod.ts
+[18:26:21] found          : environment
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/environments/environment.ts
+[18:26:21] found          : environment
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/button.component.ts
+[18:26:21] found          : ButtonComponent
+[18:26:21]                : - imports:
+[18:26:21]                : 	- CommonModule
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/Button.stories.ts
+[18:26:21] found          : meta
+[18:26:21] found          : Story
+[18:26:21] found          : Primary
+[18:26:21] found          : Secondary
+[18:26:21] found          : Large
+[18:26:21] found          : Small
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/header.component.ts
+[18:26:21] found          : HeaderComponent
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/Header.stories.ts
+[18:26:21] found          : meta
+[18:26:21] found          : Story
+[18:26:21] found          : LoggedIn
+[18:26:21] found          : LoggedOut
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/page.component.ts
+[18:26:21] found          : PageComponent
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/Page.stories.ts
+[18:26:21] found          : meta
+[18:26:21] found          : Story
+[18:26:21] found          : LoggedOut
+[18:26:21] found          : LoggedIn
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/stories/User.ts
+[18:26:21] found          : User
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/models/task.model.ts
+[18:26:21] found          : Task
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/inbox-screen.component.ts
+[18:26:21] found          : InboxScreenComponent
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/pure-inbox-screen.component.ts
+[18:26:21] found          : PureInboxScreenComponent
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/pure-inbox-screen.stories.ts
+[18:26:21] found          : meta
+[18:26:21] found          : Story
+[18:26:21] found          : Default
+[18:26:21] found          : Error
+[18:26:21] found          : WithInteractions
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/pure-task-list.component.ts
+[18:26:21] found          : PureTaskListComponent
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/pure-task-list.stories.ts
+[18:26:21] found          : meta
+[18:26:21] found          : Story
+[18:26:21] found          : Default
+[18:26:21] found          : WithPinnedTasks
+[18:26:21] found          : Loading
+[18:26:21] found          : Empty
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/task-list.component.ts
+[18:26:21] found          : TaskListComponent
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/task.component.ts
+[18:26:21] found          : TaskComponent
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/task.module.ts
+[18:26:21] found          : TaskModule
+[18:26:21]                : - imports:
+[18:26:21]                : 	- CommonModule
+[18:26:21]                : 	- NgxsModule
+[18:26:21]                : - exports:
+[18:26:21]                : 	- TaskComponent
+[18:26:21]                : 	- TaskListComponent
+[18:26:21]                : - declarations:
+[18:26:21]                : 	- TaskComponent
+[18:26:21]                : 	- TaskListComponent
+[18:26:21]                : 	- PureTaskListComponent
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/components/task.stories.ts
+[18:26:21] found          : actionsData
+[18:26:21] found          : meta
+[18:26:21] found          : Story
+[18:26:21] found          : Default
+[18:26:21] found          : Pinned
+[18:26:21] found          : Archived
+[18:26:21] found          : longTitleString
+[18:26:21] found          : LongTitle
+[18:26:21] parsing        : C:/Users/curci/OneDrive/Desktop/learnstorybook-code/src/app/state/task.state.ts
+[18:26:21] found          : actions
+[18:26:21] found          : ArchiveTask
+[18:26:21] found          : PinTask
+[18:26:21] found          : AppError
+[18:26:21] found          : defaultTasks
+[18:26:21] found          : TaskStateModel
+[18:26:21] found          : TasksState
+[18:26:21] -------------------
+[18:26:21] Project statistics 
+[18:26:21] - files      : 26
+[18:26:21] - module     : 2
+[18:26:21] - component  : 9
+[18:26:21] - injectable : 1
+[18:26:21] - class      : 3
+[18:26:21] - interface  : 3
+[18:26:21] -------------------
+[18:26:21] Prepare components
+[18:26:21]  ButtonComponent has styleUrls, include them
+[18:26:21]  HeaderComponent has styleUrls, include them
+[18:26:21]  PageComponent has styleUrls, include them
+[18:26:21] Prepare modules
+[18:26:21] Prepare injectables
+[18:26:21] Prepare classes
+[18:26:21] Prepare interfaces
+[18:26:21] Prepare miscellaneous
+[18:26:21] Process documentation coverage report
+[18:26:21] Generating documentation in export format json
+[18:26:21] Documentation generated in ./ in 1.074 seconds
+info => Cleaning outputDir: C:\Users\curci\AppData\Local\Temp\chromatic--20128-9T7XnLO3NJjX
+
+info => Loading presets
+info => Building manager..
+info => Manager built (546 ms)
+info => Building preview..
+info => Copying static files: C:\Users\curci\OneDrive\Desktop\learnstorybook-code\node_modules\@storybook\manager\static at C:\Users\curci\AppData\Local\Temp\chromatic--20128-9T7XnLO3NJjX\sb-common-assets
+info Using Babel compiler
+info Addon-docs: using MDX2
+info => Using implicit CSS loaders
+info => Using angular browser target options from "taskbox:build"
+info => Using angular project with "tsConfig:C:\Users\curci\OneDrive\Desktop\learnstorybook-code\.storybook\tsconfig.json"
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 1% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile angular-compiler
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation angular-occurrences-plugin
+<s> [webpack.Progress] 8% setup compilation angular-compiler
+^C
